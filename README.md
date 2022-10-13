@@ -16,17 +16,18 @@ West3D: $30 gift card
 
 Extras that are included in the LDO kit:
 
-Toolhead PCB: $22/24
-Wiring PCB: $7
-Brass heatset insert tool: ~$15
-Input shaper tool: $7
-Touch screen display: $50
-LED lighting: $20?
-Nevermore BOM: $20
-Klicky mod: $10
-Small tools: $10
-2mm Drill bit: $7
-==================================
-Total: $170
+| Part | Price (USD) |
+|-----|-----------|
+|Toolhead PCB|22/24|
+|Wiring PCB|7|
+|Brass heatset insert tool| 15 |
+|Input shaper tool|7|
+|Touch screen display|50|
+|LED lighting|20?|
+|Nevermore BOM|20|
+|Klicy mod|10|
+|Small tools|10|
+|2mm Drill bit|7|
+|Total|170|
 
 Note: The LDO kits are cubed versions (300x300x300), whereas other kits, eg Formbot, have a z limit of 250mm.  So additional costs can be added to the above total for the larger frame, z screws, enclosure, etc.
